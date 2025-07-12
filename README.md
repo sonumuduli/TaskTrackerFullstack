@@ -6,7 +6,8 @@ A full-stack web application to manage task lists and tasks, built with **Spring
 
 
 
-task-tracker-preview-separated.png
+
+![Uploading task-tracker-preview-separated.png…]()
 
 ## 🚀 Features
 
