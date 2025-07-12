@@ -5,6 +5,7 @@
 A full-stack web application to manage task lists and tasks, built with **Spring Boot** (backend) and **React** (frontend). Inspired by the "Build a Task Tracking App" tutorial by 
 
 
+<img width="1" height="1" alt="Screenshot 2025-07-11 200743" src="https://github.com/user-attachments/assets/4c913d0d-c3a0-4186-b6aa-ee4098db1ca6" />
 
 
 ![Uploading task-tracker-preview-separated.png…]()
