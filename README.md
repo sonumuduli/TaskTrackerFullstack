@@ -44,5 +44,5 @@ A full-stack web application to manage task lists and tasks, built with **Spring
 - Git
 
 ## 📦 frontend code 
-fronted code is not here if you want mail me in that id kamalakantamuduli4@gmail.com
+fronted code is not here if you want frontend code  mail me in that id kamalakantamuduli4@gmail.com
 
