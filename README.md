@@ -2,9 +2,10 @@
 
 # 📝 Task Tracker App
 
-A full-stack web application to manage task lists and tasks, built with **Spring Boot** (backend) and **React** (frontend). Inspired by the "Build a Task Tracking App" tutorial by [Devtiro](https://www.youtube.com/@devtiro).
+A full-stack web application to manage task lists and tasks, built with **Spring Boot** (backend) and **React** (frontend). Inspired by the "Build a Task Tracking App" tutorial by 
 
-![Task Tracker Screenshot](./assets/screenshot.png)
+![Uploading task-tracker-preview-separated.png…]()
+
 
 ## 🚀 Features
 
